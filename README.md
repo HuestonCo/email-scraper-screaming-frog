@@ -1,4 +1,4 @@
-![Hueston Logo](https://hueston.co/wp-content/uploads/hueston-light-logo-80px.svg)](https://hueston.co)
+[![Hueston Logo](https://hueston.co/wp-content/uploads/hueston-light-logo-80px.svg)](https://hueston.co)
 
 # Email Extractor for Screaming Frog
 
