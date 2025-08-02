@@ -43,5 +43,5 @@ Crawls your website and finds all email addresses on each page, filtering out CS
 - Handles various email formats
 
 ## Credits
-[Best SEO Company](https://hueston.co)
+[Hueston Programagtic SEO Team](https://hueston.co)
 
