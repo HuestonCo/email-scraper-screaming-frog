@@ -2,7 +2,7 @@
 
 # Email Extractor for Screaming Frog
 
-A JavaScript custom extraction script for Screaming Frog SEO Spider to identify email addresses across websites.
+A JavaScript custom extraction script for Screaming Frog SEO Spider to identify email addresses on siet scans. This is quicky and dirty and hope someone improves on it. 
 
 ## What it does
 
@@ -42,8 +42,6 @@ Crawls your website and finds all email addresses on each page, filtering out CS
 - Deduplicates results
 - Handles various email formats
 
-## Requirements
+## Credits
+[Best SEO Company](https://hueston.co)
 
-- Screaming Frog SEO Spider (any recent version)
-- JavaScript custom extraction enabled
-MIT
