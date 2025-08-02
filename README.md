@@ -20,7 +20,10 @@ Crawls your website and finds all email addresses on each page, filtering out CS
 3. Click **Add** and create a new extraction
 4. Set type to **JavaScript**
 5. Copy and paste the code from `email-extractor.js`
-6. Add one output column: **Emails**
+
+
+[![Screaming Frog Email Scraper JS](https://hueston.tempurl.host/remote/screaming-frog-email-scraper.png)](https://hueston.co)
+
 
 ## Usage
 
